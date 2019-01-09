@@ -8,11 +8,12 @@
 # More at https://ownyourbits.com/2017/02/13/nextcloud-ready-raspberry-pi-image/
 #
 
-LATEST=14.0.4
+LATEST=15.0.0
 
 configure()
 {
   bash /usr/local/bin/ncp-update-nc "$VERSION"
+  sudo -u www-data php /var/www/nextcloud/occ -n db:convert-filecache-bigint
 }
 
 install() { :; }

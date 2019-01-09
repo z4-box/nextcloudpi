@@ -1,5 +1,7 @@
 
-[v1.0.0](https://github.com/nextcloud/nextcloudpi/commit/5eb44b1) (2019-01-08) ncp-config: allow empty values
+[v1.1.0](https://github.com/nextcloud/nextcloudpi/commit/cac9fcd) (2019-01-08) upgrade to NC15
+
+[v1.0.0](https://github.com/nextcloud/nextcloudpi/commit/013198c) (2019-01-08) ncp-config: allow empty values
 
 [v0.67.13](https://github.com/nextcloud/nextcloudpi/commit/21fee19) (2018-12-31) ncp-web: new chinese translate and update chinese translate. (#721)
 
