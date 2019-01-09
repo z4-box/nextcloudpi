@@ -1,5 +1,7 @@
 
-[v1.1.0](https://github.com/nextcloud/nextcloudpi/commit/cac9fcd) (2019-01-08) upgrade to NC15
+[v1.1.1](https://github.com/nextcloud/nextcloudpi/commit/c4012d2) (2019-01-08) Revert "nc-update-nc: check app compatibility before before executing NC update (#682)"
+
+[v1.1.0  ](https://github.com/nextcloud/nextcloudpi/commit/89d93c6) (2019-01-08) upgrade to NC15
 
 [v1.0.0](https://github.com/nextcloud/nextcloudpi/commit/013198c) (2019-01-08) ncp-config: allow empty values
 
